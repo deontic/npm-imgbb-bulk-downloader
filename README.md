@@ -3,6 +3,10 @@
 
 _download imageBB images in bulk with ease_
 
+## Info
+You can use this tool to download several images from [imgBB](https://imgbb.com/) from their urls,
+I made this because there's no other utility available for this purpose.
+
 
 ## Install
 
