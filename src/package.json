@@ -12,6 +12,10 @@
     "bulk img bb",
     "bulk imgBB"
   ],
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^3.0.0"
+  },
   "author": "un-index",
   "license": "MIT"
 }
