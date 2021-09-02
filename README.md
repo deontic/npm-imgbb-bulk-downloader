@@ -17,6 +17,8 @@ then install the dependencies via
 ```js
 const imgbulk = require("@un-index/imgbb-bulk")
 
+// save images to a folder named imgout, stored in the current directory
+
 imgbulk(`https://ibb.co/Vgvx2Bm
 https://ibb.co/Xsb8Lyr
 https://ibb.co/VBrnTSQ
