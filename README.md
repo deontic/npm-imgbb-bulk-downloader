@@ -1,7 +1,7 @@
 # imgBB bulk downloader (unofficial)
 <img src = "https://user-images.githubusercontent.com/68165727/131923011-65df82b2-6520-4228-81dc-6079d4fb6cde.jpg" alt = "img bb" width=280 >
 
-download imageBB images in bulk with ease
+_download imageBB images in bulk with ease_
 
 
 ## Install
