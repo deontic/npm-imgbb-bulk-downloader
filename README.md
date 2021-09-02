@@ -1,2 +1,36 @@
 # imgBB-bulk-downloader
-download imageBB images in bulk 
+download imageBB images in bulk with ease
+
+# Usage
+
+download the npm package from npm via running 
+`npm i @un-index/imgbb-bulk` 
+in the directory you will require it
+
+then install the dependencies via 
+`npm install` 
+
+```
+const imgbulk = require("@un-index/imgbb-bulk")
+
+imgbulk(`https://ibb.co/Vgvx2Bm
+https://ibb.co/Xsb8Lyr
+https://ibb.co/VBrnTSQ
+https://ibb.co/9Vgr2hP`)
+
+/* output: 
+  writing to ./imgout/Vgvx2Bm.gif
+  done
+  writing to ./imgout/Xsb8Lyr.gif
+  done
+  writing to ./imgout/9Vgr2hP.webp
+  done
+  writing to ./imgout/VBrnTSQ.gif
+  done
+*/
+```
+## specify a separator
+
+imgbulk(`https://ibb.co/Vgvx2Bm,https://ibb.co/Xsb8Lyr,https://ibb.co/VBrnTSQ,https://ibb.co/9Vgr2hP`, ",")
+
+
