@@ -10,7 +10,7 @@ I made this because there's no other utility available for this purpose.
 
 ## Install
 
-download the npm package from npm via running 
+download the package via npm by running 
 `npm i @un-index/imgbb-bulk` 
 in the directory you will require it
 
