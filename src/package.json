@@ -1,6 +1,6 @@
 {
   "name": "@un-index/imgbb-bulk",
-  "version": "1.4.0",
+  "version": "1.7.0",
   "description": "a utility to download images stored using imgBB in bulk from their urls",
   "main": "index.js",
   "keywords": [
@@ -13,5 +13,5 @@
     "bulk imgBB"
   ],
   "author": "un-index",
-  "license": "ISC"
+  "license": "MIT"
 }
