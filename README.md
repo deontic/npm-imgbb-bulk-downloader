@@ -6,7 +6,7 @@
 ## Info
 **(Note: you can get the easier to use Python exe here: https://github.com/Un-index/imgBB-bulk-exe)**
 
-You can use this tool to download several images from [imgBB](https://imgbb.com/) from their urls,
+You can use this tool to mass download images images from [imgBB](https://imgbb.com/) from their urls,
 I made this because there's no other utility available for this purpose.
 
 
@@ -72,6 +72,7 @@ https://ibb.co/9Vgr2hP`)
 // by default the newline character is used as the separator
 imgbulk(`https://ibb.co/Vgvx2Bm,https://ibb.co/Xsb8Lyr,https://ibb.co/VBrnTSQ,https://ibb.co/9Vgr2hP`, ",")
 ```
+P.S: If you found this tool remotely useful, please consider starring the project.
 
 ## Contact
 electroblast878@gmail.com
