@@ -72,7 +72,7 @@ https://ibb.co/9Vgr2hP`)
 // by default the newline character is used as the separator
 imgbulk(`https://ibb.co/Vgvx2Bm,https://ibb.co/Xsb8Lyr,https://ibb.co/VBrnTSQ,https://ibb.co/9Vgr2hP`, ",")
 ```
-P.S: If you found this tool remotely useful, please consider starring the project.
+**P.S**: If you found this tool remotely useful, please consider starring the project.
 
 ## Contact
 electroblast878@gmail.com
