@@ -4,7 +4,7 @@
  _download imageBB images in bulk with ease_
 
 ## Info
-**(Note: you can get the easier to use executable file here: https://github.com/Un-index/imgBB-bulk-exe)**
+**(Note: you can get the easier to use executable file here:https://github.com/Un-index/imgBB-bulk-exe/releases/)**
 
 You can use this tool to mass download images images from [imgBB](https://imgbb.com/) from their urls,
 I made this because there's no other utility available for this purpose.
