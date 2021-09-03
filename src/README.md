@@ -10,12 +10,23 @@ I made this because there's no other utility available for this purpose.
 
 ## Install
 
+in case you don't have node installed you can set it up very easily: https://nodejs.org/en/download/
+
+make sure you initialize an npm repository before continuing via
+```
+npm init
+```
+
 download the package via npm by running 
-`npm i @un-index/imgbb-bulk` 
+```
+npm i @un-index/imgbb-bulk
+```
 in the directory you will require it
 
 then install the dependencies via 
-`npm install` 
+```
+npm install
+```
 
 ## Usage
 ```js
