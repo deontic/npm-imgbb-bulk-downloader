@@ -1,0 +1,24 @@
+{
+  "name": "@un-index/imgbb-bulk",
+  "version": "1.9.7",
+  "description": "a utility to download images stored using imgBB in bulk from their urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imgbb",
+    "img bb",
+    "img bb download",
+    "img bb bulk",
+    "img bb bulk download",
+    "bulk img bb",
+    "bulk imgBB"
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "2.6.1"
+  },
+  "author": "un-index",
+  "license": "MIT"
+}
