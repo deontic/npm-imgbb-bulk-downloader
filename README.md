@@ -2,9 +2,11 @@
 <img src = "https://user-images.githubusercontent.com/68165727/131923011-65df82b2-6520-4228-81dc-6079d4fb6cde.jpg" alt = "img bb" width=280 >
 
  _download imageBB images in bulk with ease_
+ 
+ **(Note: you can get the easier to use web-based version at https://un-index.github.io/imgBB-web-bulk-downloader/ or the executable file written in Python here: https://github.com/Un-index/imgBB-bulk-exe/releases/)**
 
 ## Info
-**(Note: you can get the easier to use executable file written in Python here: https://github.com/Un-index/imgBB-bulk-exe/releases/)**
+
 
 You can use this tool to mass download images images from [imgBB](https://imgbb.com/) from their urls,
 I made this because there's no other utility available for this purpose.
