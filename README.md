@@ -52,10 +52,14 @@ paste the links in a string and pass them to imgbb-bulk
 const imgbulk = require("@un-index/imgbb-bulk")
 
 // save images to a folder named imgout, stored in the current directory
-imgbulk(`https://ibb.co/Vgvx2Bm
+const urls = `
+https://ibb.co/Vgvx2Bm
 https://ibb.co/Xsb8Lyr
 https://ibb.co/VBrnTSQ
-https://ibb.co/9Vgr2hP`)
+https://ibb.co/9Vgr2hP`;
+
+imgbulk(urls);
+
 
 /* example output:
   writing to ./imgout/file-example-GIF-500k-B.gif
