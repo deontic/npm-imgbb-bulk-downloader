@@ -57,14 +57,14 @@ https://ibb.co/Xsb8Lyr
 https://ibb.co/VBrnTSQ
 https://ibb.co/9Vgr2hP`)
 
-/* output: 
-  writing to ./imgout/Vgvx2Bm.gif
+/* example output:
+  writing to ./imgout/img1.gif
   done
-  writing to ./imgout/Xsb8Lyr.gif
+  writing to ./imgout/img2.gif
   done
-  writing to ./imgout/9Vgr2hP.webp
+  writing to ./imgout/img3.webp
   done
-  writing to ./imgout/VBrnTSQ.gif
+  writing to ./imgout/img4.gif
   done
 */
 ```
