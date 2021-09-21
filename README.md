@@ -58,13 +58,13 @@ https://ibb.co/VBrnTSQ
 https://ibb.co/9Vgr2hP`)
 
 /* example output:
-  writing to ./imgout/img1.gif
+  writing to ./imgout/file-example-GIF-500k-B.gif
   done
-  writing to ./imgout/img2.gif
+  writing to ./imgout/file-example-GIF-1-MB.gif
   done
-  writing to ./imgout/img3.webp
+  writing to ./imgout/file-example-WEBP-1500k-B.webp
   done
-  writing to ./imgout/img4.gif
+  writing to ./imgout/file-example-GIF-3500k-B.gif
   done
 */
 ```
