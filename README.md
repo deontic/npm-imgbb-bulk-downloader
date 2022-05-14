@@ -25,7 +25,8 @@ npm init
 ```
 npm i @un-index/imgbb-bulk
 ```
-in the directory you will require it~~
+in the directory you will require it
+~~
 
 (DO NOT download from npm for now, as it has a feature which only works 50% of the time. Use this way of installing, but it won't use original filenames.)
 ```js
