@@ -1,6 +1,6 @@
 {
   "name": "@un-index/imgbb-bulk",
-  "version": "1.9.7",
+  "version": "1.10.0",
   "description": "a utility to download images stored using imgBB in bulk from their urls",
   "main": "index.js",
   "scripts": {
