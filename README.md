@@ -21,18 +21,11 @@ make sure you initialize an npm repository before continuing via
 npm init
 ```
 
-<s>download the package via npm by running 
+download the package via npm by running 
 ```
 npm i @un-index/imgbb-bulk
 ```
 in the directory you will require it
-</s>
-
-(DO NOT download from npm for now, as it has a feature which only works 50% of the time. Use this way of installing, but it won't use original filenames.)
-```js
-npm uninstall @un-index/imgbb-bulk
-npm i https://github.com/Un-index/npm-imgbb-bulk-downloader
-```
 
 then install the dependencies via 
 ```
@@ -59,22 +52,19 @@ paste the links in a string and pass them to imgbb-bulk
 const imgbulk = require("@un-index/imgbb-bulk")
 
 // save images to a folder named imgout, stored in the current directory
-const urls = `https://ibb.co/Vgvx2Bm
+imgbulk(`https://ibb.co/Vgvx2Bm
 https://ibb.co/Xsb8Lyr
 https://ibb.co/VBrnTSQ
-https://ibb.co/9Vgr2hP`;
-
-imgbulk(urls);
-
+https://ibb.co/9Vgr2hP`)
 
 /* example output:
-  writing to ./imgout/file-example-GIF-500k-B.gif
+  writing to ./imgout/img1.gif
   done
-  writing to ./imgout/file-example-GIF-1-MB.gif
+  writing to ./imgout/img2.gif
   done
-  writing to ./imgout/file-example-WEBP-1500k-B.webp
+  writing to ./imgout/img3.webp
   done
-  writing to ./imgout/file-example-GIF-3500k-B.gif
+  writing to ./imgout/img4.gif
   done
 */
 ```
