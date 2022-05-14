@@ -21,12 +21,12 @@ make sure you initialize an npm repository before continuing via
 npm init
 ```
 
-~~download the package via npm by running 
+<s>download the package via npm by running 
 ```
 npm i @un-index/imgbb-bulk
 ```
 in the directory you will require it
-~~
+</s>
 
 (DO NOT download from npm for now, as it has a feature which only works 50% of the time. Use this way of installing, but it won't use original filenames.)
 ```js
