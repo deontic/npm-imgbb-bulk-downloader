@@ -3,7 +3,7 @@
 
  _download imageBB images in bulk with ease_
  
- **(Note: you can get the easier to use web-based version at https://unsusceptible.github.io/imgBB-web-bulk-downloader/ or the executable file written in Python here: https://github.com/unsusceptible/imgBB-bulk-exe/releases/)**
+ **(Note: you can get the easier to use web-based version at https://deontic.github.io/imgBB-web-bulk-downloader/ or the executable file written in Python here: https://github.com/deontic/imgBB-bulk-exe/releases/)**
 
 ## Info
 
