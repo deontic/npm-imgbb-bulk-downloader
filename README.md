@@ -52,7 +52,8 @@ paste the links in a string and pass them to imgbb-bulk
 const imgbulk = require("@un-index/imgbb-bulk")
 
 // save images to a folder named imgout, stored in the current directory
-// NOTE: if there's any extra spaces at the end of any URL or there is a newline at the end, you WILL get an Invalid URL error so get rid of those
+// NOTE: if there's any extra spaces at the end of any URL or there is a newline at the end,
+// you WILL get an Invalid URL error so get rid of those
 imgbulk(`https://ibb.co/Vgvx2Bm
 https://ibb.co/Xsb8Lyr
 https://ibb.co/VBrnTSQ
