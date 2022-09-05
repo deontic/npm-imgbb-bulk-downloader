@@ -78,5 +78,4 @@ https://ibb.co/9Vgr2hP`)
 imgbulk(`https://ibb.co/Vgvx2Bm,https://ibb.co/Xsb8Lyr,https://ibb.co/VBrnTSQ,https://ibb.co/9Vgr2hP`, ",")
 ```
 
-## Contact
-electroblast878@gmail.com
+
