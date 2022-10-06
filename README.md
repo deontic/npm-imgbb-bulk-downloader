@@ -5,7 +5,7 @@
  
   > **Note**: you can also use https://deontic.github.io/chevereto-bulk-downloader to download images from other websites that use the Chevereto image hosting software ([chevereto.com](https://chevereto.com/)).
 
- >(**Note**: you can get the easier to use web-based version at https://deontic.github.io/imgBB-web-bulk-downloader/ or the executable file written in Python here: https://github.com/deontic/imgBB-bulk-exe/releases/)
+ >**Note**: you can get the easier to use web-based version at https://deontic.github.io/imgBB-web-bulk-downloader/ or the executable file written in Python here: https://github.com/deontic/imgBB-bulk-exe/releases/)
 
 ## Info
 
